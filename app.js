@@ -61,7 +61,7 @@ const homeFeed = (data) => {
 }
 
 
-async / await
+// async / await
 
 const testOne = async () => {
     try{
@@ -203,3 +203,5 @@ const test = async () => {
 console.log('frist');
 test();
 console.log('second');
+
+
